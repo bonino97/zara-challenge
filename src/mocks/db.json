@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "BLUE JEANS FLARED FIT",
+      "image": "https://static.zara.net/photos///2023/I/0/2/p/0840/455/427/2/w/3024/0840455427_6_1_1.jpg?ts=1687769171849",
+      "price": "12.99 EUR"
+    },
+    {
+      "id": "2",
+      "name": "CAMISETA HEAVY MARRON",
+      "image": "https://static.zara.net/photos///2023/I/0/2/p/4393/303/700/2/w/3024/4393303700_6_1_1.jpg?ts=1698916397870",
+      "price": "23.99 EUR"
+    },
+    {
+      "id": "3",
+      "name": "POLO PUNTO CON LANA",
+      "image": "https://static.zara.net/photos///2023/I/0/2/p/5755/397/717/2/w/1024/5755397717_6_1_1.jpg?ts=1698916400066",
+      "price": "34.99 EUR"
+    },
+    {
+      "id": "4",
+      "name": "SUDADERA CROPPED CAPUCHA",
+      "image": "https://static.zara.net/photos///2023/I/0/2/p/4393/300/717/2/w/1024/4393300717_6_1_1.jpg?ts=1698916397090",
+      "price": "45.99 EUR"
+    },
+    {
+      "id": "5",
+      "name": "JERSEY CUELLO PICO",
+      "image": "https://static.zara.net/photos///2023/I/0/2/p/9598/342/803/2/w/1024/9598342803_6_1_1.jpg?ts=1696322926289",
+      "price": "56.99 EUR"
+    },
+    {
+      "id": "6",
+      "name": "PANTALÓN RELAXED CON LANA",
+      "image": "https://static.zara.net/photos///2023/I/0/2/p/1564/126/800/2/w/1024/1564126800_6_2_1.jpg?ts=1698916397305",
+      "price": "67.99 EUR"
+    },
+    {
+      "id": "7",
+      "name": "ABRIGO PLUMÍFERO WATER",
+      "image": "https://static.zara.net/photos///2023/I/0/2/p/3918/614/717/2/w/1024/3918614717_6_1_1.jpg?ts=1698919052446",
+      "price": "78.99 EUR"
+    }
+  ]
+}
