@@ -1,4 +1,3 @@
-// hooks/useProducts.ts
 import { useEffect, useState } from 'react';
 import useAxios from '#/hooks/useAxios';
 import { IProduct } from '#/interfaces/IProduct';
